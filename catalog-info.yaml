@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-plugin-codacy-react
+  title: '@backstage/plugin-codacy-react'
+spec:
+  lifecycle: experimental
+  type: backstage-web-library
+  owner: maintainers
